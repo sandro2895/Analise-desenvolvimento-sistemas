@@ -1,0 +1,22 @@
+
+
+-Caracteristicas da progamação orientada a objetos.
+
+-Uso da linguagem java na ferramenta NetBeans.
+
+-Uso de estruturas condicionais e de estruturas de repetição em JAVA.
+
+-Conceito de progamação Orientada a Objetos.
+
+
+Orientação a objeto é o paradigma mais usado na progamação.
+
+
+--Surgiu na decada de 1960 Com a linguagem de progamação Simula-67
+
+--Mas somente em 1970 com a linguagem SmallTalk começou a ser implementado a orientação a objeto.
+
+--É a hierarquia de classe que determina se uma linguagem é orientada a objetos.
+
+--Para orientação a objetos é necessario usar classes e assim criar instancias.
+

@@ -1,0 +1,38 @@
+Salas virtuais
+Midias que utilizam o ciberespaço para veicular conteúdos e permitir interações entre professores e estudantes.
+o objetivo maior sendo o aprendizado
+
+em outros paises é chamado de:
+Learning Management System(Sistema de gerenciamento de aprendizagem) LMS
+
+Virtual Learning Environment(Ambient virtual de aprendizagem) VLE
+
+LMS é responsavel pela gestão do aprendizado, acessos e desempenho.
+
+
+Ambientes virtuais de aprendizado:
+
+BLACKBOARD:
+Fundado em 1997
+Uma das salas de aulas mais usadas no mundo, permite o acesso simultaneo de milhares de pessoas
+e com recursos sícronas por meio de web conferências. e tem disponibilidade mobile.
+
+MOODLE(Modular object-oriented Dynamic Learning enviromment):
+é um ambient de aprendizagem modular dinâmico orientado a objetos. é open source(Uso livre)
+Criado por Martin Dougiamas.
+Exemplo: CursoEmVideo
+
+
+TELEDUC:
+Desenvolvido por pesquisadores da NIED
+Feito para ser um ambiente de criação , participação e administração de cursos na web.
+
+BRIGTHSPACE
+É a sala de aula virtual da DL2(Desire2Learn)
+Fundada por jhon baker em 1999
+Idealizada com o objetivo que todos tenham acesso as melhores oportunidades de aprendizado possiveis.
+
+Grupo Ser Educacional S.A começou em 2008 com projetos online para  cursos presencias da IES
+em 2012 o projeto evoluiu para diciplinas onlines variadas. em 2014 começou os cursos de graduação
+em 2015 começou as pos-graduações
+em 2017 a modalidade foi expandida.

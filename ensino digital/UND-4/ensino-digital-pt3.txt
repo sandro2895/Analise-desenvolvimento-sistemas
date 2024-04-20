@@ -1,0 +1,68 @@
+
+CLOUD COMPUTING
+
+Antigamente se usava mais Disquetes, CD, DVD,  Pendrive, e HD-SSD Externo para armazenar arquivos em outros computadores.
+Antes havia um grande problema de a maquina fisica original se perder com todos os arquivos.
+
+No Cloudcomputing os arquivos passam a ser guardados em um ambient virtual podendo ser acessados por varias pessoas de qualquer lugar.
+
+Os provedores de computação em nuvem oferecem:
+Armazenamento, banco de dados, rede, software, análise de dados e IA(Inteligência Artificial).
+
+O custo é com a manutenção de data centers(eletricidade, refrigeração, manutenção e equipe alocada.)
+Possui alcance global.
+
+O desempenho aumenta com o investimento nos data centers espalhados pelo mundo.
+
+Existe a segurança dos dados, é desenvolvido tecnologias para proteção contra criminosos impedindo o acesso não autorizado.
+
+OS três tipos de nuvems computacionais:
+
+Nuvem publica: fornece recursos como progamas, espaços de armazenamento e suporte. geralmente esse tipo de nuvem é associada a e-mail.
+
+Nuvem privada: são usados apenas pelas proprias empresas e instituição, possuem data center proprios no seu local e permite somente pessoas autorizadas.
+
+Nuvem híbrida: junção de nuvems publicas e privadas, exemplo são segmentos medicos que possuem redes privadas para informações sigilosas e
+Uma rede publica para demanda e fluxo.
+
+Os serviços mais utilizados de nuvem são Onedrive e dropbox, emails.
+
+Para ajudar os seus estudos crie pastas e arquivos na nuvem, diario de bordo e textos registrando oque axa importante, 
+desenvolva trabalhos colaborativos no mesmo arquivo com colegas criando varias pespectivas,
+Sincronize seu hd fisico com a nuvem computacional,
+Organize bate-papo com colegas utilizando chamadas de video.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

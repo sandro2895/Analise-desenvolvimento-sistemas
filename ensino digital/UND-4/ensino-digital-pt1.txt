@@ -1,0 +1,38 @@
+Conhecendo a TICs(Tecnologia de informação e comunicação)
+Computação em nuvem
+
+Na antiguidade a geração e controle do fogo, invenção da roda, foram descobertas que marcaram o avanço tecnologico da civilização.
+
+Estamos no momento na quarta revolução industrial.
+
+passamos por:
+
+Sociedade da caça e coleta e Sociedade agrícola(tecnica de cultivo), Sociedade industrial(Energia a vapor) e por fim Sociedade em rede(Rede de computadores).
+
+A primeira onda foi a revolução agricola - Nossos ancestrais deixaram de ser nomades e começaram a desenvolver as regiões onde habitavam e artesanato
+
+A segunda onda foi a revolução industrial - milhares de trabalhadores dos campos foram a cidades e era exigido melhor educação e profissionalismo.
+
+A terceira onda foi a revolução da informação - permintindo comunicação e trabalhos a distancia.
+
+O computador é composto por duas partes:
+
+Hardware - Parte fisica que podemos ver e tocar formada por componentes e acessórios.
+
+Software - Que corresponde aos progamas mais diversos, desde sistemas operacionais a aplicativos do pc e do celular.
+
+O primeiro algoritimo computacional surgiu com Ada Lovelace que nasceu em 1815 e criou uma sequência de números de bernoulli na maquina analitica de babbage.
+
+Gerações de computadores:
+1º Geração: Entre o periodo de 1945 e 1959 foi marcado pelo surgimento das grandes maquinas, uso de cartões perfurados e problemas com aquecimento.
+
+2º Geração: Se inicio no periodo de 1959 e terminou em 1965, marcado pela redução do tamanho das maquinas e aumento de capacidade de processamento
+E surgiu as primeiras linguagens de progamação
+
+3º Geração: Entre o periodo de 1965 e 1975. foi marcado pelo surgimento do chip(circuito integrado), mouse, Computação grafica e engenharia de software.
+
+4º Geração: Teve inicio em 1975 e muito acreditam que tenha terminado em 1990. foi marcado pela grande difusão do uso do microcomputador.
+Teve a primeira versão do Windows e surgimento do Macintosh da Apple.
+
+5º Geração: Se inicio em 1990 e vai ate hoje. Marcado pela Automação de escritórios e processos industriais, com supercomputadores,
+Robótica, Multimídia, Inteligência Artificial(IA).

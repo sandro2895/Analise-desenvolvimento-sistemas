@@ -1,0 +1,39 @@
+Componentes básicos de computadores e suas funções.
+
+MICROPROCESSSADOR: Responsável pelo processamento das informações, cálculos e tomada de decisão.
+
+DISCO RÍGIDO: É a memória utilizada para armazenamento de dados.
+
+PERIFÉRICOS: São aparelhos que enviam e recebem informações do pc. exemplo: Mouse, Teclado, Impressora, Scarnner, Webcam, Monitor e etc.
+
+BIOS: É o primeiro componente a fucionar ao ligar. é responsável pela inicialização.
+
+BARRAMENTO: É a estrutura que permite interligar alguns componentes como memória e alguns perifericos.
+
+MEMÓRIAS RAM e ROM: São as memórias para escrita e leitura da máquina. Não são pernamentes.
+
+MEMÓRIA CACHE: É um bloco de memória para armazenamento tempórario de informações que são constantemente acessadas.
+
+PLACA-MÃE: A parte do computador que interliga e conecta todas as partes do computador.
+
+PLACA DE REDE: Dispositivo que conecta o computador a uma rede.
+
+=Dicas para solução de alguns problemas tecnicos=:
+
+Lixeira: exclui e restaura arquivos.
+
+CTRL + ALT + DEL: gerenciador de programas - pode ser usado para sair.
+
+Iniciar: Use para procurar arquivos.
+
+Problemas de som: Reinicie o pc, Cheque se está no mudo, Verifique se o periferico de som está bem conectado.
+
+CTRL + Z: Retorna texto em geral.
+
+Abrir arquivos: Verifique se tem o progama adequado - Para extensão PDF baixe o adobe reader.
+
+CTRL + C E CTRL + V: Não use para plagiar: 
+
+Salvar como: para documentos com somente leitura.
+
+Mantenha arquivos salvos arquivos em pen drives, hd-ssd externos ou nuvem.
