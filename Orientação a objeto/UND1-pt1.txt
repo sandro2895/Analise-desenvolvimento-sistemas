@@ -20,3 +20,23 @@ Orientação a objeto é o paradigma mais usado na progamação.
 
 --Para orientação a objetos é necessario usar classes e assim criar instancias.
 
+Nos primórdios da computação, um programa de computador era escrito de maneira sequenciada, com suas funções uma abaixo da outra 
+
+o programa trabalhava diante de seleções que executavam uma sequência com base em condições (if ou else) verdadeiras (true) ou falsas (false) ou 
+diante de repetições que executassem tal sequência enquanto a condição fosse verdadeira (iterações: for, foreach, do e while).
+
+Objetos (POO) consiste no desenvolvimento de sistemas computacionais utilizando linguagens de programação que suportam orientação a objetos por meio de classes 
+e seus atributos e métodos
+
+A Programação Orientada a Objetos tem por objetivo melhorar a produtividade dos(as) programadores(as) no desenvolvimento de sistemas, possibilitando 
+a construção de sistemas robustos com menos linhas de código, 
+de modo que trechos de códigos sejam reaproveitados. A POO é vantajosa porque:
+
+possibilita a reutilização de código, sendo essa sua maior vantagem ao permitir que um(a) programador(a) escreva menos linhas, 
+já que um trecho de código pode ser reutilizado inúmeras vezes em qualquer parte do sistema;
+
+possibilita que a aplicação seja escalável, fazendo com que ela cresça de acordo com as necessidades que surgem no decorrer do desenvolvimento ou mesmo diante da necessidade de implantar novas funcionalidades;
+
+além disso, a manutenção do sistema é feita de forma simplificada, rápida e eficiente.
+
+

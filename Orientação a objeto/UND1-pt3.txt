@@ -1,0 +1,43 @@
+EXMEPLO CHAR:
+
+public class ExemploCharASCII { 
+
+public static void main(String args[]) { 
+
+char caractereJ = 74;
+
+char caractereA = 65; 
+
+char caractereV = 86;
+
+System.out.println(caractereJ + “” + caractereA + “” + caractereV + “” + caractereA ) ;
+
+}
+
+}
+
+Como você deve ter percebido, no código há três atributos do tipo char e cada um representa uma letra. Assim, para escrever a palavra JAVA utilizando char, 
+é preciso usar aspas vazias para dizer ao Java que se está concatenando e não somando, pois, como char é inteiro, sem + “” + a 
+linguagem entenderia que os valores estão somados em vez de concatenados. Assim, executando o código anterior, a saída no console seria “JAVA”.
+
+Em Java, para atribuir qualquer texto no lugar de um array de char (char []), usa-se a classe String. Isso porque, por ser uma classe, 
+String não é um tipo primitivo, apesar de não precisar ser instanciada. De acordo com Santos (2011), embora não seja preciso declarar um array de char, 
+o conceito de String é que a instância possui zero ou mais caracteres do tipo char, enfileirados em ordem de leitura (da esquerda para direita). Veja:
+public class testePalavra {
+
+public static void main(String args[]) {
+
+//Usando array de char
+
+char [] tipoChar = {‘p’,’a’,’l’,’a’,’v’,’r’,’a’};
+
+//usando classe String sem instanciá-la String classeString = “Palavra”;
+
+//usando a classe String, instanciando-a
+
+String classeString2 = new String (“Palavra”);
+
+
+mais comum é fazer “String nomeVariavel = “palavra”;” em vez de “String nomeVariavel = new String(“palavra”);”. 
+
+A classe String é imutável, não sendo possível alterá-la após criada. Por outro lado, uma variável da classe String também admite a junção de textos

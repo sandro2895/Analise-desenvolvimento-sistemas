@@ -1,0 +1,40 @@
+
+Para programar utilizando a orientação a objetos, é necessário criar classes que, em muitos casos, 
+são só modelos de entidades e, para que se possa representar dados a partir das classes, 
+é necessária a criação de objetos e/ou instanciação destas classes.
+
+
+Além disso, os dados contidos na classe são atributos do objeto e as classes são abstrações do mundo real no mundo virtual. Na programação, tais classes 
+também são chamadas de modelos (models)
+
+-Representações de objetos, pessoas, tarefas e processos, usados no dia a dia
+
+é preciso que você saiba que nem todo modelo possui dados e operações, visto que eles podem incluir apenas dados ou operações. 
+Lembre-se que modelos que contêm só dados são pouco usados, pois não faz sentido ter um modelo cujas informações não são manipuláveis. 
+Já modelos que possuem só operações são mais encontrados, sendo denominados bibliotecas de operações
+
+É importante destacarmos ainda que a escolha do tipo de dado em Estrutura de Dados leva em consideração alguns aspectos, como:
+
+identificador - nome pelo qual a estrutura será identificada. Geralmente, possui ligação com sua aplicação no mundo real.
+
+tipo de armazenamento - define se serão armazenadas letras, números, valores lógicos etc.
+
+velocidade em inserir dados - a velocidade é medida, geralmente em milissegundos, e pode variar dependendo do tipo de estrutura escolhida.
+
+algoritmo de ordenação e localização de dados - existem muitos algoritmos específicos para cada tipo de estrutura que dependem muito da sua aplicação.
+
+A linguagem de programação Java foi desenvolvida pela Sun Microsystems(1995) por JAMES GOSLING (agora pertencente à Oracle Corporation)
+
+Para o java fucionar é preciso uma JVM(Java Virtual Machine).
+Possibilitacirar progamas para diversos dispositivos e sistemas operacionais.
+
+AO contrario de outras linguagens que precisa de progamas e arquiteturas diferentes.
+
+JAVA trabalha com: CLASSES, ATRIBUTOS, MÉTODOS, IMPLEMENTAR HERANÇA, ENCAPSULAMENTO DE DADOS.
+
+Dados aceitos ja linguagem java script: NUMEROS INTEIROS, PONTOS FLUTUANTES, CARACTERES, DADOS BOOLEANOS.
+
+É importante destacarmos que, em Java, há poucos tipos de dados primitivos, também conhecidos como nativos ou básicos. 
+Eles são parte da linguagem, portanto, suas nomenclaturas são palavras-chaves e não são instâncias de outras classes. Assim, 
+cada tipo tem limitações, ocupando valores específicos em memória. 
+

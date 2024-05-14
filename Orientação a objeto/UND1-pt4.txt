@@ -1,0 +1,75 @@
+
+Tipos de declaração de objetos 
+
+tipo LONG OU INT. ocupa 64 bits de memória.
+
+Classe string armazena infinitos caracteres.
+
+
+tipo SHORT : ARMAZENA VALORES DESCONSIDERANDO OS NEGATIVOS.
+
+Temos as variáveis, que são definidas como espaço em memória que possui um identificador e pode alocar dados.
+
+
+É importante destacarmos que Java é uma linguagem de programação simples, portável, gratuita, 
+robusta e com bibliotecas para aplicações, além de ser possível executá-la em um terminal Unix ou MS-DOS.
+
+é utilizada para desenvolvimento de sistemas web, mobile ou desktop e possui frameworks fáceis de utilizar e também há integração fácil com o banco de dados.
+
+Esta linguagem também é fortemente tipada, ou seja, ao declarar atributos ou variáveis, declara-se também o tipo de dado (numérico, texto, booleano, entre outros).
+
+Faça o download do JDK (kit de desenvolvimento) e do Netbeans.
+
+
+== (igual):
+
+!= ( ):
+
+> (maior):
+
+< (menor)
+
+>= (maior ou igual)
+
+exemplo:
+
+public class TesteOperadoresLogicos { 
+    public static void main(String args[]) {
+
+      int numeroComparado = 18;
+
+      if (15 == numeroComparado) { 
+
+          System.out.println(“os números são iguais”);
+
+      } else {
+
+          System.out.println(“os números são diferentes”);
+
+      }
+
+
+E, caso seja necessário comparar Strings ou objetos, se usa o método equals, como neste exemplo da classe String:
+      
+ public class ComparaPalavra {
+
+         public static void main(String args[]) { String palavra1 = “Palavra”;
+
+         String palavra2 = “Palavra”;
+
+
+          If (palavra1.equals(palavra2)) { 
+
+           System.out.println(“As palavras são iguais”);
+
+           } else {
+
+           System.out.println(“As palavras são diferentes”);
+
+           }
+
+           }
+
+           }
+
+
